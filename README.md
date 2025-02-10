@@ -4,4 +4,8 @@ Este foi o segundo projeto prático desenvolvido no âmbito do curso de webdevel
 
 O site visa apresentar as raízes da cultura cabo-verdiana, com ênfase na morna.
 
+[Assista no YouTube](https://youtu.be/lc7UORIcXB4)
+
+
+
 
